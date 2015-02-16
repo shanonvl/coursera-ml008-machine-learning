@@ -1,4 +1,4 @@
-# Week 3
+# Week 2
 
 ## Multiple Features
 
@@ -13,7 +13,8 @@
   1416 
   291 
   321 
-]```
+]
+```
 
 x<sup>(2)</sup> = 291
 
